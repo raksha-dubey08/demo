@@ -20,7 +20,7 @@ Here are some programs in C language:-
 
 10.Write a program to demostrate the use of post(x++) and pre(++x) increment on a variable and also print the value.
 
-11. Write a C program that takes an integer input from the user and checks whether the number is even or odd using an if-else statement.
+11. Write a C program that takes an integer input from the user and checks whether the number is even or odd using an if-else statement.11
 
 12.Using nested if
 Write a C program to take a person’s age as input and check if they are eligible to vote.
@@ -42,3 +42,18 @@ Below 50  Grade F
 If the user enters a number outside 1–7, print "Invalid input"
 
 15.Write a C program that takes two numbers and an operator (+, -, *, /) from the user and performs the operation using a switch case.
+
+16.Write a program in C to calculate the sum of the first n natural numbers using a for loop.
+
+17.Write a C program using a loop to check if a number is prime or not.
+
+18.Write a program to count how many digits a number has using a while loop.
+Example: Input 5029, Output 4.
+
+19.Write a C program to find the factorial of a number using a while loop.
+Example: Input 5, Output 120.
+
+20.Write a C program for a simple calculator that repeatedly asks the user for two numbers and an operation (+, -, *, /) until the user chooses to exit. Must use a do while loop to repeat until exit.
+
+
+
