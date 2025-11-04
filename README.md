@@ -69,4 +69,22 @@ Example: Input 5, Output 120.
 
 27.Write a recursive function in C to find the factorial of a given number.
 
+28. Write a C program to define a structure called Student with the following members:
+name (string of max 50 characters)
+SAP ID (integer)
+marks (float)
+Create an array of 5 students, take input for each, and display the details of all students
 
+29.Define a union called Data that contains the following members:
+int i;
+float f;
+char str[20];
+Write a program to:
+Assign values to each member of the union one by one.
+Print all members after each assignment.
+
+30.Define a structure Rectangle with members:
+int length;
+int breadth;
+Write a function struct Rectangle inputRectangle() that takes input for a rectangle and returns it.
+Write another function int area(struct Rectangle r) that returns the area.
